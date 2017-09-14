@@ -1,1 +1,5 @@
+---
+Help: page
+Suites: page
+---
 <test page>Fitnesse plugin test  
